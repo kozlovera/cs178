@@ -1,3 +1,9 @@
+// Name: Vera Kozlova
+// Course: CS178 Build Automation for  DevOps and QA
+// CRN: 76718
+// Date: 10/03/2017
+// Assignment: Asterisks
+
 #include <iostream>
 using namespace std;
 
